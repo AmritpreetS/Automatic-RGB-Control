@@ -1,5 +1,5 @@
-const int red = 2;         // assigning pin number 2 for Red
-const int green = 4;       // assigning pin number 4 for Green
+const int red = 13;         // assigning pin number 13 for Red
+const int green = 12;       // assigning pin number 12 for Green
 const int blue = 7;        // assigning pin number 7 for Blue
 
 void setup() {
